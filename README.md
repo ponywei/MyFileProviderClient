@@ -1,0 +1,2 @@
+# MyFileProviderClient
+FileProvider获取拍摄照片Demo的Client
